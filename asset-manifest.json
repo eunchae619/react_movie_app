@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eunchae619.github.io/react_movie_app/static/css/main.e44557df.chunk.css",
+    "main.js": "/eunchae619.github.io/react_movie_app/static/js/main.6b1ec403.chunk.js",
+    "main.js.map": "/eunchae619.github.io/react_movie_app/static/js/main.6b1ec403.chunk.js.map",
+    "runtime-main.js": "/eunchae619.github.io/react_movie_app/static/js/runtime-main.6ae85bf8.js",
+    "runtime-main.js.map": "/eunchae619.github.io/react_movie_app/static/js/runtime-main.6ae85bf8.js.map",
+    "static/js/2.bc05cd45.chunk.js": "/eunchae619.github.io/react_movie_app/static/js/2.bc05cd45.chunk.js",
+    "static/js/2.bc05cd45.chunk.js.map": "/eunchae619.github.io/react_movie_app/static/js/2.bc05cd45.chunk.js.map",
+    "index.html": "/eunchae619.github.io/react_movie_app/index.html",
+    "precache-manifest.3366bc02c4f456c57215bd3bd6bce41f.js": "/eunchae619.github.io/react_movie_app/precache-manifest.3366bc02c4f456c57215bd3bd6bce41f.js",
+    "service-worker.js": "/eunchae619.github.io/react_movie_app/service-worker.js",
+    "static/css/main.e44557df.chunk.css.map": "/eunchae619.github.io/react_movie_app/static/css/main.e44557df.chunk.css.map",
+    "static/js/2.bc05cd45.chunk.js.LICENSE.txt": "/eunchae619.github.io/react_movie_app/static/js/2.bc05cd45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ae85bf8.js",
+    "static/js/2.bc05cd45.chunk.js",
+    "static/css/main.e44557df.chunk.css",
+    "static/js/main.6b1ec403.chunk.js"
+  ]
+}
